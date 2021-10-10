@@ -3,7 +3,7 @@
 
 A simple reactjs application using the contex api listing the books.
 
-[Live Website](https://github.com/facebook/create-react-app).
+[Live Website](https://bookslist-reactjs-simple-project.netlify.app/).
 
 # Getting Started with Create React App
 
